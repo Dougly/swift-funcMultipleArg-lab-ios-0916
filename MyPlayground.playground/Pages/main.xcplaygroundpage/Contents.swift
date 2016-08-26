@@ -15,7 +15,7 @@
  */
 // write your code here
 func numCountriesInContinent (continent: String, numCountries: Int){
-    print("There are \(numCountries) in \(continent).")
+    print("There are \(numCountries) countries in \(continent).")
 }
 numCountriesInContinent("Africa", numCountries: 54)
 
